@@ -23,6 +23,10 @@ var solution = function(isBadVersion) {
      * @return {integer} The first bad version
      */
     return function(n) {
+        //
+        
+        
+        
         let start = 0;
         let end = n;
         let mid = Math.floor((start + end) / 2);
